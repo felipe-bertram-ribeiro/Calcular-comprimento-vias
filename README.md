@@ -1,7 +1,7 @@
 <h1 align="center">Calcular Comprimento das Vias - Avançado (Plugin QGIS)</h1>
 
 <p align="center">
-  <img src="icons/icon.png" alt="Ícone do plugin" width="96" height="96"><br>
+<br>
   <em>Plugin QGIS para cálculo de comprimento total e por categoria de vias lineares</em>
 </p>
 

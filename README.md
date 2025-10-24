@@ -49,7 +49,7 @@ calcular_comprimento_vias_avancado/
 
 <ol>
   <li>Clone ou baixe este repositório no diretório de plugins do QGIS:</li>
-  <pre><code>git clone https://github.com/seu-usuario/calcular-comprimento-vias-avancado.git</code></pre>
+  <pre><code>git clone https://github.com/seu-usuario/Calcular-comprimento-vias.git</code></pre>
 
   <li>Abra o QGIS.</li>
   <li>No menu, acesse <strong>Complementos → Gerenciar e Instalar Complementos → Instalar a partir de um diretório</strong>.</li>

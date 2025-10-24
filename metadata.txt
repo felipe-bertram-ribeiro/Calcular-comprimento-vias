@@ -1,0 +1,7 @@
+[general]
+name=calcular_comprimento_veias_avancado
+qgisMinimumVersion=3.22
+author=Felipe Bertram
+email=felipebertram3014@gmail.com
+version=1.8
+description=Calcula o comprimento total de linhas e por categoria, salva shapefile em UTM e exporta CSV.

@@ -1,0 +1,45 @@
+# QGIS plugin - ignore files not needed in repository
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Backup / temp files
+*.bak
+*.tmp
+*.swp
+*~
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# QGIS plugin package files
+*.zip
+*.tar.gz
+
+# Test or export outputs
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.qgs
+*.qgz
+*.qml
+
+# User-generated temporary data
+exports/
+output/
